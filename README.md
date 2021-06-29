@@ -52,7 +52,16 @@ I use Virtual Box Linux Ubuntu 18.04 inside Windows 10 for this project
 
 ![mydag](https://user-images.githubusercontent.com/84316622/123774534-b2031400-d8f7-11eb-98d6-acad3d9ac727.png)
  
- NOTE = Everytime you want to run your airflow webserver and scheduler, you need to activate your Virtual Env by run this ``source env/bin/activate`
+ NOTE = Everytime you want to run your airflow webserver and scheduler, you need to activate your Virtual Env by run this `source env/bin/activate`
+ 
+ ## How ETL works ?
+ 
+With some of processes, this is how ETL works
+
+![ETLprocess](https://user-images.githubusercontent.com/84316622/123780319-47ed6d80-d8fd-11eb-9aa9-78039d878da0.jpg)
+
+
+
 
 
     
