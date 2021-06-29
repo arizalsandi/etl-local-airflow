@@ -46,7 +46,7 @@ I use Virtual Box Linux Ubuntu 18.04 inside Windows 10 for this project
  `airflow webserver --port 8080`
  `airflow scheduler`
  
- - Check to your website and write `localhost:8080` to make sure your airflow UI running smoothly
+ - Check to your website and write in URL section `localhost:8080` to make sure your airflow running smoothly
  
  Here's some example after you success running your airflow :
 
